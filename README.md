@@ -24,3 +24,7 @@ These were cleaned using Pandas, and then a pivot table and heat spell detection
 
 The student data had duplicate rows, Absent midterms, finals entered ten times too large and missing study hours, which were fixed using Pandas.
 A total and a grade were then calculated for every student, and np.polyfit was used to fit a line between study hours and total marks.
+## Dashboard (Q6)
+
+One figure with 6 panels was built using GridSpec: city temperature lines with a heat spell, section bar chart, histogram, scatter plot, step plot and a day by hour heatmap.
+The dashboard was saved as dashboard.png and dashboard.pdf in the outputs folder.
