@@ -8,3 +8,7 @@
 ## Challenges
 
 One challenging part was creating and customizing the visualizations using Matplotlib.
+## Project Overview
+
+This assignment covers code tracing, debugging, sensor data analysis, weather and student data cleaning, a dashboard and a 3D surface animation.
+Everything is done only with NumPy, Pandas and Matplotlib inside one notebook.
