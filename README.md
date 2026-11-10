@@ -12,3 +12,7 @@ One challenging part was creating and customizing the visualizations using Matpl
 
 This assignment covers code tracing, debugging, sensor data analysis, weather and student data cleaning, a dashboard and a 3D surface animation.
 Everything is done only with NumPy, Pandas and Matplotlib inside one notebook.
+## Sensor Cube (Q3)
+
+Sensor readings of 6 sensors over 10 days were cleaned by replacing the failed -999 values and impossible readings with NaN.
+NumPy functions like np.nanmean were then used to find the mean per sensor and the hourly temperature profile.
